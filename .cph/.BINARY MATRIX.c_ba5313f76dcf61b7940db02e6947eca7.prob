@@ -1,0 +1,1 @@
+{"name":"Local: BINARY MATRIX","url":"c:\\Users\\buidi\\OneDrive\\Desktop\\procode\\BINARY MATRIX.c","tests":[{"id":1698382598804,"input":"3\n1 1 0\n1 1 1\n1 0 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\buidi\\OneDrive\\Desktop\\procode\\BINARY MATRIX.c","group":"local","local":true}

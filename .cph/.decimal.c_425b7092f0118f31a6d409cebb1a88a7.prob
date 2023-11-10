@@ -1,0 +1,1 @@
+{"name":"Local: decimal","url":"c:\\Users\\buidi\\OneDrive\\Desktop\\procode\\decimal.c","tests":[{"id":1698653606957,"input":"2\n1\n13","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\buidi\\OneDrive\\Desktop\\procode\\decimal.c","group":"local","local":true}

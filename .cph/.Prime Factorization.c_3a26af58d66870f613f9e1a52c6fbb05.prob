@@ -1,0 +1,1 @@
+{"name":"Local: Prime Factorization","url":"c:\\Users\\buidi\\OneDrive\\Desktop\\procode\\Prime Factorization.c","tests":[{"id":1696139444290,"input":"2\n10\n20","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\buidi\\OneDrive\\Desktop\\procode\\Prime Factorization.c","group":"local","local":true}

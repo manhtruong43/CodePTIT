@@ -1,0 +1,1 @@
+{"name":"Local: SUM OF DIGITS DIVISIBLE BY 10","url":"c:\\Users\\buidi\\OneDrive\\Desktop\\procode\\SUM OF DIGITS DIVISIBLE BY 10.c","tests":[{"id":1696234545813,"input":"2\n3333\n555555","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\buidi\\OneDrive\\Desktop\\procode\\SUM OF DIGITS DIVISIBLE BY 10.c","group":"local","local":true}

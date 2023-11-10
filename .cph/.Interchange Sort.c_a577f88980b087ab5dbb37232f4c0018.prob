@@ -1,0 +1,1 @@
+{"name":"Local: Interchange Sort","url":"c:\\Users\\buidi\\OneDrive\\Desktop\\procode\\Interchange Sort.c","tests":[{"id":1697353500057,"input":"4\n5 7 3 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\buidi\\OneDrive\\Desktop\\procode\\Interchange Sort.c","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: PRODUCT OF PRIME FACTORS","url":"c:\\Users\\buidi\\OneDrive\\Desktop\\procode\\PRODUCT OF PRIME FACTORS.c","tests":[{"id":1699270742042,"input":"3\n72\n1000\n997","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\buidi\\OneDrive\\Desktop\\procode\\PRODUCT OF PRIME FACTORS.c","group":"local","local":true}

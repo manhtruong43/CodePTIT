@@ -1,0 +1,1 @@
+{"name":"Local: GREATEST COMMON DIVISOR","url":"c:\\Users\\buidi\\OneDrive\\Desktop\\procode\\GREATEST COMMON DIVISOR.c","tests":[{"id":1695984420735,"input":"2\n24 14\n75 125","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\buidi\\OneDrive\\Desktop\\procode\\GREATEST COMMON DIVISOR.c","group":"local","local":true}
